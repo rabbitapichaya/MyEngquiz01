@@ -1,0 +1,23 @@
+buildscript {
+
+    repositories {
+        // Make sure that you have the following two repositories
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.2.2'
+
+        classpath 'com.google.gms:google-services:4.3.14'
+        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.21'
+
+    }
+}
+
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
+

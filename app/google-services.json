@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "782987164918",
+    "project_id": "engquiz1",
+    "storage_bucket": "engquiz1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782987164918:android:cf2109d11fffc26eb380d7",
+        "android_client_info": {
+          "package_name": "com.example.myengquiz01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782987164918-sk4iv80uchvsablhvfq165vlbgsrg0tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa4OrZBhrERtSEHBeVEhFJwbEPYq0j2eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782987164918-sk4iv80uchvsablhvfq165vlbgsrg0tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
